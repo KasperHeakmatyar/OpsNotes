@@ -1,2 +1,3 @@
 # OpsNotes
 My study notes
+From python basic to DevOps pro...
